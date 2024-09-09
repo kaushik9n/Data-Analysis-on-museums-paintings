@@ -1,1 +1,1 @@
-•	The aim of this project is to take a dataset based on museums, famous paintings and upload it to PostgreSQL database using python and analyze the data.
+•	The aim of this project is to take a dataset based on museums, famous paintings and upload it to PostgreSQL database using python and analyze the data.solutions file is having all the sql queries of the project.
